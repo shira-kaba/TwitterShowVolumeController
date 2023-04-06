@@ -3,7 +3,7 @@ This is a Chrome extension to force Twitter videos to show their volume controll
 
 ## Installation
 1. Download the folder named "Twitter Show Volume Controller" above.
-2. Go to the extensions setting of your browser, enable developer mode, and import the folder via "Load unpacked" button.
+2. Go to the extensions setting page of your browser, enable developer mode, and import the folder via "Load unpacked" button.
 
-## Acknowledgement
+## Acknowledgements
 The script is based on Abul22's code on https://www.reddit.com/r/Twitter/comments/pxm7v0/issue_of_being_unable_to_use_the_volume_control/
