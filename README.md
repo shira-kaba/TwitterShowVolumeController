@@ -1,4 +1,4 @@
-# TwitterShowVolumeController
+# Twitter Show Volume Controller
 This is a Chrome extension to force Twitter videos to show their volume controllers for who has an issue of being unable to use the volume control on Twitter.
 
 ## Installation
